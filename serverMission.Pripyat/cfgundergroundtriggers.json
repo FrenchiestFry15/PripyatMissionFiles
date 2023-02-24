@@ -1,0 +1,69 @@
+{
+    "Triggers":
+	[
+		{ 	
+			"Position": [ 7369.549805, 11.385128, 15036.730469 ],
+			"Orientation": [ 2.100000, 0, 0 ],
+			"Size": [ 560, 50, 55 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7422.040039, 17.858757, 15091.708984 ],
+			"Orientation": [ 2.100000, 0, 0 ],
+			"Size": [ 250, 40, 60 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 6967.618164, 14.782646, 15048.694336 ],
+			"Orientation": [ 2.100000, 0, 0 ],
+			"Size": [ 250, 50, 50 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7016.510254, 14.446102, 15094.969727 ],
+			"Orientation": [ 2.100000, 0, 0 ],
+			"Size": [ 150, 50, 50 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7016.009766, 14.446100, 15134.708008 ],
+			"Orientation": [ 2.100000, 0, 0 ],
+			"Size": [ 150, 50, 50 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 6980.291504, 19.629980, 15168.904297 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 6975.368164, 10.105309, 15011.634766 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 20, 20 ],
+			"EyeAccommodation": 0.4,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 19142.898438, 345.316559, 18327.705078 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 150, 50, 50 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 19142.898438, 348.064545, 18279.195313 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 150, 50, 50 ],
+			"EyeAccommodation": 0.1,
+			"Breadcrumbs": []
+		}		
+		
+	]
+}
