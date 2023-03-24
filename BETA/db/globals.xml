@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <variables>
-    <var name="AnimalMaxCount" type="0" value="200"/>
+    <var name="AnimalMaxCount" type="0" value="100"/>
     <var name="CleanupAvoidance" type="0" value="100"/>
-    <var name="CleanupLifetimeDeadAnimal" type="0" value="1200"/>
+    <var name="CleanupLifetimeDeadAnimal" type="0" value="3600"/>
     <var name="CleanupLifetimeDeadInfected" type="0" value="330"/>
     <var name="CleanupLifetimeDeadPlayer" type="0" value="3600"/>
     <var name="CleanupLifetimeDefault" type="0" value="45"/>
@@ -28,6 +28,6 @@
     <var name="TimeLogout" type="0" value="15"/>
     <var name="TimePenalty" type="0" value="20"/>
     <var name="WorldWetTempUpdate" type="0" value="1"/>
-    <var name="ZombieMaxCount" type="0" value="1000"/>
-    <var name="ZoneSpawnDist" type="0" value="300"/>
+    <var name="ZombieMaxCount" type="0" value="700"/>
+    <var name="ZoneSpawnDist" type="0" value="200"/>
 </variables>
