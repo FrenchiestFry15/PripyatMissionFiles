@@ -68,16 +68,18 @@
 <!-- -->
 			<export name="Haybale" shape="dz\structures\industrial\misc\misc_haybale.p3d" />
 			<export name="Strawstack" shape="dz\structures\industrial\farms\farm_strawstack.p3d" />
-<!-- -->
+<!--
 			<export name="CaninaBush1" shape="dz\plants\bush\b_rosaCanina_1s.p3d" />
 			<export name="CaninaBush2" shape="dz\plants\bush\b_rosaCanina_2s.p3d" />
-<!-- -->
+
 			<export name="SambucusBush1" shape="dz\plants\bush\b_sambucusNigra_1s.p3d" />
 			<export name="SambucusBush2" shape="dz\plants\bush\b_sambucusNigra_2s.p3d" />
+-->			
 		</clusters>
 
 <!--Groups -->
 <!--Apple -->
+<!--
 		<cluster name="CaninaBush1" lootmax="2" maxinstances="150">
 			<de name="TrajectoryCanina" />
 			<container name="branch" lootmax="1">
@@ -114,6 +116,7 @@
 			<point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
 			</container>
 		</cluster>
+-->		
 		<cluster name="AppleTree1" lootmax="2" maxinstances="150">
 			<de name="TrajectoryApple" />
 			<container name="branch" lootmax="1">
