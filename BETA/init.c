@@ -6,7 +6,7 @@ void main()
 		ce.InitOffline();
 	
 	//EXPORTING FOR PRIPYAT -UNCOMMENT TO EXPORT NEW FILES
-		//GetCEApi().ExportProxyData("10240 0 10240", 20480);
+		//GetCEApi().ExportProxyData("0 0 0", 100000);
 		//GetCEApi().ExportClusterData();
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
