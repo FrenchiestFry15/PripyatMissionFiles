@@ -1,6 +1,6 @@
 # ServerMissionFilesRepository
 
-Download the map image here (.TIFF): https://drive.google.com/file/d/1TL14FcrJRTzchw9h59PONKrwrJDntwcD/view?usp=sharing
+Download the map image here (.PNG): https://drive.google.com/file/d/1DOMnG_rhm5Hb2yI6KGtP6V4Qz-XdUfVY/view?usp=share_link
 
 (.PNG): https://drive.google.com/file/d/17XjcKzm9pcbq0Bo4c0iZcryAD_Efosdc/view?usp=sharing
 
