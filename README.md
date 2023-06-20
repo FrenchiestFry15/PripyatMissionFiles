@@ -7,8 +7,5 @@ Download the map image here (.PNG): https://drive.google.com/file/d/1DOMnG_rhm5H
 
 Pripyat requires Stalker Area of Decay Building mod. It is a dependency.
 
-(BETA) files are required to be named serverMission.Pripyat
-
-The non beta files are outdated
 
 for support, visit https://discord.io/BobasPlace
