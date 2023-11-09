@@ -5,7 +5,7 @@ Download the map image here for the CE Editor tool (.PNG): https://drive.google.
 
 
 
-Pripyat requires Stalker Area of Decay Building mod. It is a dependency.
+Pripyat requires GSC Gameworld Assets mod. It is a dependency.
 
 
-for support, visit https://discord.io/BobasPlace
+for support, visit (https://discord.gg/xUbshXbvVK)https://discord.gg/xUbshXbvVK
